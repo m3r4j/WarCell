@@ -1,0 +1,12 @@
+Hello there,
+
+The rules of the game are simple:
+
+If you catch a pokemon ball thats one point
+If a boulder hits you then you are out
+If you touch the lava then you are out
+Make sure to hold space so ur jetpack keeps flying up
+Every 5 points, the boulders and players speed gets higher so be careful!
+Enjoy!
+
+Author: m3r4j
